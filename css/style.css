@@ -428,7 +428,7 @@
     padding: 3rem;
     margin-right: 2rem;
     transform: rotate(270deg); }
-    @media screen and (max-width: 400px) {
+    @media screen and (max-width: 500px) {
       .about_me_content .obrazek {
         display: none; } }
   .about_me_content .about_me_text {
