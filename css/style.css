@@ -14,9 +14,10 @@
   font-family: 'Roboto Condensed', sans-serif;
   /*     width: 100%;
     height: 100%; */ }
-  @media screen and (max-width: 350px) {
+  @media screen and (max-width: 400px) {
     .content {
-      background: url("../img/prague.jpg") center fixed; } }
+      background: url("../img/prague.jpg") center fixed;
+      background-size: auto; } }
 
 .welcome {
   display: flex;
