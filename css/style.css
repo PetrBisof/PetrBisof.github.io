@@ -17,7 +17,7 @@
   @media screen and (max-width: 400px) {
     .content {
       background: url("../img/prague.jpg") center fixed;
-      background-size: auto; } }
+      background-size: 100% 100%; } }
 
 .welcome {
   display: flex;
