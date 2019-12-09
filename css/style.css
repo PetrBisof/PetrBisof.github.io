@@ -395,6 +395,10 @@
   background: url("../img/eshop.jpg");
   background-size: cover; }
 
+.flight_app {
+  background: url("../img/flightApp.jpg");
+  background-size: cover; }
+
 .link {
   width: 100%;
   height: 100%; }
