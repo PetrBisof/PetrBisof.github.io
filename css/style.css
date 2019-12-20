@@ -433,7 +433,7 @@
     height: 25rem;
     padding: 3rem;
     margin-right: 2rem;
-    transform: rotate(270deg); }
+    /*transform: rotate(270deg);*/ }
     @media screen and (max-width: 500px) {
       .about_me_content .obrazek {
         display: none; } }
